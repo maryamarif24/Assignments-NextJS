@@ -1,0 +1,59 @@
+
+.footer {
+    width: 100%;
+    padding: 3rem 1rem 10vw;
+    background: #000;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    position: relative;
+
+}
+
+.logo {
+    width: 10px;
+    opacity: 0.3;
+    align-items: center;
+    font-size: 100%;
+    padding-left: 30%;
+    padding-right: 3%;
+}
+
+.text {
+    color: #fff;
+    opacity: 0.5;
+    font-size: 20px;
+    padding-left: 20%;
+}
+
+.text p {
+    margin: 20px 0;
+}
+
+.copyrightline{
+    width: 100%;
+    background: #000;
+    color: #fff;
+    text-transform: capitalize;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding: 10px 0vw;
+}
+
+.h1 {
+    font-size: 200%;
+    font-weight: 700;
+    display: flex;
+    padding: 10px 20px 10px 20px;
+    color: crimson;
+  }
+  
+  .h3 {
+    font-size: 80%;
+    font-weight: 700;
+    color: rgb(252, 252, 252);
+    display: flex;
+    padding: 0px 10px 10px;
+  }

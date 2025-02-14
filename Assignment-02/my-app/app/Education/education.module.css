@@ -1,0 +1,19 @@
+
+.h1 {
+    font-size: 300%;
+    font-weight: 700;
+    display: flex;
+    padding: 10px 20px 10px 20px;
+    color: crimson;
+    justify-content: center;
+    background-color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.p {
+    font-size: 120%;
+    font-weight: 400;
+    padding: 10px 20px 10px 20px;
+    color: rgb(33, 7, 7);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
